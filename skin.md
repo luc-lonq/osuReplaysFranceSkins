@@ -23,7 +23,7 @@ skins are not always what the players uses, skins here are just the skins used i
 ### [Arisita lonq ver.](https://drive.google.com/file/d/1g82cJz1sqpCccI6rGbZ7pz-IlJaNjd9r/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18442528/f1cf)
 ### [Bloo lonq ver.](https://drive.google.com/file/d/1ERRH5NMtbWcMjLmqckkdToM48enIo53s/view?usp=sharing)
-![](https://osu.ppy.sh/ss/18454431/6b9b)
+![](https://osu.ppy.sh/ss/18454450/3499)
 
 # NanahiraEnjoyer / Warinn
 ### [Aristia(Edit)+trail](https://drive.google.com/file/d/1t7tTGImxMFWIIo6POIgOpR_kh0Iyw2TC/view?usp=sharing)
