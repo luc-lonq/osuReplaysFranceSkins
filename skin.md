@@ -10,7 +10,6 @@ skins are not always what the players uses, skins here are just the skins used i
 ### [Bacon boi 1.0 (blue)](https://drive.google.com/file/d/1uoE6AS95c732TXt8gaBRFIE_Ku2I6MzB/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18454391/d34a)
 
-
 # gabouing
 ### [Ryan fancy edit](https://drive.google.com/file/d/1KZ5OikamyXuI5ixusn93Zu61y2zniPtK/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18442561/9e31)
@@ -28,6 +27,10 @@ skins are not always what the players uses, skins here are just the skins used i
 # NanahiraEnjoyer / Warinn
 ### [Aristia(Edit)+trail](https://drive.google.com/file/d/1t7tTGImxMFWIIo6POIgOpR_kh0Iyw2TC/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18454401/fa30)
+
+# Squid Game / mion1
+### [Bacon boi 1.0 (blue)](https://drive.google.com/file/d/1YX073qL7G3ojs8yD9adhE9zVC8tEI88z/view?usp=sharing)
+![](https://osu.ppy.sh/ss/18454391/d34a)
 
 # TotorProstate / TotorPotate
 ### [Rafis HDDT](https://drive.google.com/file/d/1VrmAMBpN4ou1IQgMdwvjp8O_TsjrkiFG/view?usp=sharing)
