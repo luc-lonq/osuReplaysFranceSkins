@@ -2,6 +2,10 @@
 skins are sorted by players osu! username  
 skins are not always what the players uses, skins here are just the skins used in replays for each players
 
+# calangi
+### [Charlelee V1.1](https://drive.google.com/file/d/1gnDguWIsTpGooiTnDXzezZQeRHSTN-76/view?usp=sharing)
+![](https://osu.ppy.sh/ss/18461705/093f)
+
 # Carbone
 ### [Ryan fancy edit](https://drive.google.com/file/d/1b6hyvzPNX7MYrp5fPg9oQT5H0eJWzjT4/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18442561/9e31)
@@ -35,6 +39,8 @@ skins are not always what the players uses, skins here are just the skins used i
 # TotorProstate / TotorPotate
 ### [Rafis HDDT](https://drive.google.com/file/d/1VrmAMBpN4ou1IQgMdwvjp8O_TsjrkiFG/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18454425/47e5)
+### [Aristia(Edit)+trail](https://drive.google.com/file/d/1LKpRuZxtwCyyxVK6N0pMmgrGqAYVGZ76/view?usp=sharing)
+![](https://osu.ppy.sh/ss/18454401/fa30)
 
 # Vagouuu
 ### [Rafis HDDT](https://drive.google.com/file/d/1CaE2mMrRuAZcBz8O56gR7RCK4eMaVKQ1/view?usp=sharing)
