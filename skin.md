@@ -36,6 +36,10 @@ skins are not always what the players uses, skins here are just the skins used i
 ### [Bacon boi 1.0 (blue)](https://drive.google.com/file/d/1YX073qL7G3ojs8yD9adhE9zVC8tEI88z/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18454391/d34a)
 
+# Swaks
+### [WhiteCat 1.0 (CK)](https://drive.google.com/file/d/1Gji4ZLUOq6nnkw4x05KOXMY71oMCy3P5/view?usp=sharing)
+![](https://osu.ppy.sh/ss/18466053/a79b)
+
 # TotorProstate / TotorPotate
 ### [Rafis HDDT](https://drive.google.com/file/d/1VrmAMBpN4ou1IQgMdwvjp8O_TsjrkiFG/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18454425/47e5)
