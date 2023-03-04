@@ -2,6 +2,10 @@
 skins are sorted by players osu! username  
 skins are not always what the players uses, skins here are just the skins used in replays for each players
 
+# arakii
+### [XooMoon](https://drive.google.com/file/d/1BB2DGyg1qxdChTnJLLExj4WxcLhqhZvU/view?usp=sharing)
+![](https://osu.ppy.sh/ss/18471749/45bf)
+
 # calangi
 ### [Charlelee V1.1](https://drive.google.com/file/d/1gnDguWIsTpGooiTnDXzezZQeRHSTN-76/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/18461705/093f)
